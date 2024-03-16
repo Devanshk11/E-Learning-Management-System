@@ -1,4 +1,4 @@
-**Introduction of the Project**
+## **Introduction of the Project**
 
 -Library management system , also called an AUTOMATED LIBRARY SYSTEM � -Defined as a software that has been established to manage basic housekeeping function of a library � -LMS helps to provide information on any book present in the library to the user as well as the staff of any Institution � -Also helps to keep a track of book published , Given in return and added to the library
 
